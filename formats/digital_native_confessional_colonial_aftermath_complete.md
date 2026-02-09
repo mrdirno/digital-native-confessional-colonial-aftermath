@@ -2,7 +2,8 @@
 
 ## **CHAPTER 1**
 
-The ghost of a sugar plantation lives in my router logs. I’m scraping the data, my fingers slick on the trackpad, watching the map render. Every packet trace from my cousin’s smart-farm in Kerala routes through a server farm in London, owned by a shell company registered to an address that was once a counting house for the East India Company. The latency is 150 milliseconds of history, repeating. I didn’t just inherit the stories; I inherited the infrastructure.
+My grandmother’s ghost lives in a server farm in Nevada. I know because I pay the monthly hosting fee. Her smile, digitized from three faded photographs, beams across twelve hundred miles of fiber-optic cable, a colonial export I now subsidize. This is the inheritance: not land, but latency.
+
 
 
 
